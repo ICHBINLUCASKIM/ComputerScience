@@ -13,7 +13,8 @@ Computer Science Fundamentals
 ## Data Structure
 
 
-- Stack: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1j0KudLu2bKSdPSdCrqFr9ycncw9CIbEc?usp=sharing](https://colab.research.google.com/drive/1WoH3YqZyEvGioMcQKMp4Uu5T7jpp9vtH?usp=sharing))
+
+- Stack(KR): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1j0KudLu2bKSdPSdCrqFr9ycncw9CIbEc?usp=sharing](https://colab.research.google.com/drive/1WoH3YqZyEvGioMcQKMp4Uu5T7jpp9vtH?usp=sharing))
 
 
 ## Algorithms
